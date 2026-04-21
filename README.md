@@ -1,20 +1,14 @@
 # Hey! We build APIs and tools for social media data
 
-Get Instagram and TikTok data with 100 free requests.
+Get Instagram and TikTok data with **100 free requests**.
 
-Start here: **[HikerAPI](https://hikerapi.com/p/hsazcgym)** · **[Lamatok](https://lamatok.com/p/s6kl8mtn)** · **[Datalikers](https://datalikers.com/p/1by27bwg)**
+Start here:
 
-We build APIs, datasets, MCP tools, libraries, and bots for Instagram and TikTok.
+- **[HikerAPI](https://hikerapi.com/p/hsazcgym)** — Instagram API for profiles, posts, stories, reels, followers, and OSINT workflows
+- **[Lamatok](https://lamatok.com/p/s6kl8mtn)** — TikTok API for videos, profiles, comments, hashtags, and automation workflows
+- **[Datalikers](https://datalikers.com/p/1by27bwg)** — Instagram & TikTok datasets, MCP server, and cached API for data-heavy workflows
 
----
-
-### APIs & Platforms
-
-| Product | What it does | Free trial |
-|---------|-------------|:----------:|
-| **[HikerAPI](https://hikerapi.com/p/hsazcgym)** | Instagram API for profiles, posts, stories, reels, followers, and OSINT workflows | [100 free requests](https://hikerapi.com/p/hsazcgym) |
-| **[Lamatok](https://lamatok.com/p/s6kl8mtn)** | TikTok API for videos, profiles, comments, hashtags, and automation workflows | [100 free requests](https://lamatok.com/p/s6kl8mtn) |
-| **[Datalikers](https://datalikers.com/p/1by27bwg)** | Instagram & TikTok datasets, MCP server, and cached API for data-heavy workflows | [100 free requests](https://datalikers.com/p/1by27bwg) |
+We also build libraries, MCP tools, and Telegram bots for Instagram and TikTok.
 
 ### Libraries
 
