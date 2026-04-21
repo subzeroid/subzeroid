@@ -19,7 +19,6 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 | [**hikerapi-mcp**](https://github.com/subzeroid/hikerapi-mcp) | MCP server for HikerAPI with 105+ Instagram API tools for AI assistants |
 | [**lamatok-mcp**](https://github.com/subzeroid/lamatok-mcp) | MCP server for LamaTok with TikTok API tools for AI assistants |
 | [**datalikers-mcp**](https://github.com/subzeroid/datalikers-mcp) | MCP server for Instagram & TikTok datasets and cached API workflows |
-| [**instagrapi-tg-mcp**](https://github.com/subzeroid/instagrapi-tg-mcp) | Telegram-focused MCP utilities around the instagrapi ecosystem |
 
 ### Libraries
 
@@ -28,7 +27,7 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 | [**instagrapi**](https://github.com/subzeroid/instagrapi) | The fastest Python library for Instagram Private API | ![](https://img.shields.io/github/stars/subzeroid/instagrapi?style=flat&color=yellow) |
 | [**aiograpi**](https://github.com/subzeroid/aiograpi) | Async Python library for Instagram Private API | ![](https://img.shields.io/github/stars/subzeroid/aiograpi?style=flat&color=yellow) |
 | [**instagrapi-rest**](https://github.com/subzeroid/instagrapi-rest) | RESTful API wrapper for Instagram Private API | ![](https://img.shields.io/github/stars/subzeroid/instagrapi-rest?style=flat&color=yellow) |
-| [**datalikers-mcp**](https://github.com/subzeroid/datalikers-mcp) | MCP server for Instagram & TikTok data in AI assistants | ![](https://img.shields.io/github/stars/subzeroid/datalikers-mcp?style=flat&color=yellow) |
+| [**instagrapi-extra**](https://github.com/subzeroid/instagrapi-extra) | Extra utilities for instagrapi: devices, locale setup, and browser cookie auth | ![](https://img.shields.io/github/stars/subzeroid/instagrapi-extra?style=flat&color=yellow) |
 
 ### Telegram Bots
 
