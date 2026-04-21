@@ -2,7 +2,7 @@
 
 Fast APIs, libraries, and bots for Instagram and TikTok data.
 
-We're behind **[HikerAPI](https://hikerapi.com)**, **[Lamatok](https://lamatok.com)**, and **[Datalikers](https://datalikers.com)** — fast, reliable APIs for Instagram and TikTok data.
+We're behind **[HikerAPI](https://hikerapi.com/p/hsazcgym)**, **[Lamatok](https://lamatok.com/p/s6kl8mtn)**, and **[Datalikers](https://datalikers.com/p/1by27bwg)** — fast, reliable APIs for Instagram and TikTok data.
 
 ---
 
@@ -10,9 +10,9 @@ We're behind **[HikerAPI](https://hikerapi.com)**, **[Lamatok](https://lamatok.c
 
 | Product | What it does | Free trial |
 |---------|-------------|:----------:|
-| **[HikerAPI](https://hikerapi.com)** | Instagram API — profiles, posts, stories, reels, followers, OSINT | [100 free requests](https://hikerapi.com/p/hsazcgym) |
-| **[Lamatok](https://lamatok.com)** | TikTok API — videos, profiles, comments, hashtags | [100 free requests](https://lamatok.com/p/s6kl8mtn) |
-| **[Datalikers](https://datalikers.com)** | Instagram & TikTok datasets, MCP server, low-cost cache API | [Get started](https://datalikers.com/p/1by27bwg) |
+| **[HikerAPI](https://hikerapi.com/p/hsazcgym)** | Instagram API — profiles, posts, stories, reels, followers, OSINT | [100 free requests](https://hikerapi.com/p/hsazcgym) |
+| **[Lamatok](https://lamatok.com/p/s6kl8mtn)** | TikTok API — videos, profiles, comments, hashtags | [100 free requests](https://lamatok.com/p/s6kl8mtn) |
+| **[Datalikers](https://datalikers.com/p/1by27bwg)** | Instagram & TikTok datasets, MCP server, low-cost cache API | [100 free requests](https://datalikers.com/p/1by27bwg) |
 
 ### Libraries
 
