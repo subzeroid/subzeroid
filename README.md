@@ -10,6 +10,17 @@ Start here:
 
 We also build libraries, MCP tools, and Telegram bots for Instagram and TikTok.
 
+### MCP for AI Assistants
+
+Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **OpenAI Codex**, **Zed**, and **Windsurf**.
+
+| Repo | Description |
+|------|-------------|
+| [**hikerapi-mcp**](https://github.com/subzeroid/hikerapi-mcp) | MCP server for HikerAPI with 105+ Instagram API tools for AI assistants |
+| [**lamatok-mcp**](https://github.com/subzeroid/lamatok-mcp) | MCP server for LamaTok with TikTok API tools for AI assistants |
+| [**datalikers-mcp**](https://github.com/subzeroid/datalikers-mcp) | MCP server for Instagram & TikTok datasets and cached API workflows |
+| [**instagrapi-tg-mcp**](https://github.com/subzeroid/instagrapi-tg-mcp) | Telegram-focused MCP utilities around the instagrapi ecosystem |
+
 ### Libraries
 
 | Repo | Description | Stars |
