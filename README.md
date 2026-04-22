@@ -8,7 +8,22 @@ Start here:
 - **[Lamatok](https://lamatok.com/p/s6kl8mtn)** — TikTok API for videos, profiles, comments, hashtags, and automation workflows
 - **[Datalikers](https://datalikers.com/p/1by27bwg)** — Instagram & TikTok datasets, MCP server, and cached API for data-heavy workflows
 
-We also build libraries, MCP tools, and Telegram bots for Instagram and TikTok.
+## Quick start
+
+Get Instagram data in 3 lines with the Python client:
+
+```bash
+pip install hikerapi
+```
+
+```python
+from hikerapi import Client
+
+cl = Client(token="<ACCESS_KEY>")
+user = cl.user_by_username_v2("instagram")
+```
+
+Grab a free token (100 requests) at [hikerapi.com](https://hikerapi.com/p/hsazcgym).
 
 ## MCP for AI Assistants
 
