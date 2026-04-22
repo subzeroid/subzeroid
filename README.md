@@ -31,7 +31,7 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 
 <p align="center">
   <a href="https://star-history.com/#subzeroid/instagrapi&Date">
-    <img src="https://api.star-history.com/svg?repos=subzeroid/instagrapi&type=Date" alt="instagrapi star history" width="600">
+    <img src="https://api.star-history.com/svg?repos=subzeroid/instagrapi&type=Date" alt="instagrapi star history" width="100%">
   </a>
 </p>
 
