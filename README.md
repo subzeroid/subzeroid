@@ -24,10 +24,16 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 
 | Repo | Description | Stars |
 |------|-------------|:-----:|
-| [**instagrapi**](https://github.com/subzeroid/instagrapi) | The fastest Python library for Instagram Private API | ![instagrapi stars](https://img.shields.io/github/stars/subzeroid/instagrapi?style=flat&color=yellow) |
+| [**instagrapi**](https://github.com/subzeroid/instagrapi) | The most actively maintained Python library for Instagram Private API | ![instagrapi stars](https://img.shields.io/github/stars/subzeroid/instagrapi?style=flat&color=yellow) |
 | [**aiograpi**](https://github.com/subzeroid/aiograpi) | Async Python library for Instagram Private API | ![aiograpi stars](https://img.shields.io/github/stars/subzeroid/aiograpi?style=flat&color=yellow) |
 | [**instagrapi-rest**](https://github.com/subzeroid/instagrapi-rest) | RESTful API wrapper for Instagram Private API | ![instagrapi-rest stars](https://img.shields.io/github/stars/subzeroid/instagrapi-rest?style=flat&color=yellow) |
 | [**instagrapi-extra**](https://github.com/subzeroid/instagrapi-extra) | Extra utilities for instagrapi: devices, locale setup, and browser cookie auth | ![instagrapi-extra stars](https://img.shields.io/github/stars/subzeroid/instagrapi-extra?style=flat&color=yellow) |
+
+<p align="center">
+  <a href="https://star-history.com/#subzeroid/instagrapi&Date">
+    <img src="https://api.star-history.com/svg?repos=subzeroid/instagrapi&type=Date" alt="instagrapi star history" width="600">
+  </a>
+</p>
 
 ## Telegram Bots
 
