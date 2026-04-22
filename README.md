@@ -1,6 +1,6 @@
-# Hey! We build APIs and tools for social media data
+# Hey! We build Instagram and TikTok APIs for developers
 
-Get Instagram and TikTok data with **100 free requests**.
+Get Instagram and TikTok data with **100 free requests**. We build production Instagram API and TikTok API services, open-source Python libraries (`instagrapi`, `aiograpi`), MCP servers for AI assistants like Claude Code and Cursor, and Telegram bots for content downloads and OSINT workflows.
 
 Start here:
 
@@ -10,7 +10,7 @@ Start here:
 
 We also build libraries, MCP tools, and Telegram bots for Instagram and TikTok.
 
-### MCP for AI Assistants
+## MCP for AI Assistants
 
 Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **OpenAI Codex**, **Zed**, and **Windsurf**.
 
@@ -20,7 +20,7 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 | [**lamatok-mcp**](https://github.com/subzeroid/lamatok-mcp) | MCP server for LamaTok with TikTok API tools for AI assistants |
 | [**datalikers-mcp**](https://github.com/subzeroid/datalikers-mcp) | MCP server for Instagram & TikTok datasets and cached API workflows |
 
-### Libraries
+## Libraries
 
 | Repo | Description | Stars |
 |------|-------------|:-----:|
@@ -29,7 +29,7 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 | [**instagrapi-rest**](https://github.com/subzeroid/instagrapi-rest) | RESTful API wrapper for Instagram Private API | ![](https://img.shields.io/github/stars/subzeroid/instagrapi-rest?style=flat&color=yellow) |
 | [**instagrapi-extra**](https://github.com/subzeroid/instagrapi-extra) | Extra utilities for instagrapi: devices, locale setup, and browser cookie auth | ![](https://img.shields.io/github/stars/subzeroid/instagrapi-extra?style=flat&color=yellow) |
 
-### Telegram Bots
+## Telegram Bots
 
 | Repo | Description |
 |------|-------------|
