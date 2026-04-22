@@ -40,16 +40,16 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 ## FAQ
 
 **What Instagram data can I access?**
-Profiles, posts, stories, reels, followers, comments, hashtags, and locations — via [HikerAPI](https://hikerapi.com/p/hsazcgym) (live) or [Datalikers](https://datalikers.com/p/1by27bwg) (datasets and cached API). For Python, use [`instagrapi`](https://github.com/subzeroid/instagrapi) or its async variant [`aiograpi`](https://github.com/subzeroid/aiograpi).
+Profiles, posts, stories, reels, followers, comments, hashtags, and locations — via [HikerAPI](https://hikerapi.com/p/hsazcgym) (live [API](https://api.hikerapi.com)) or [Datalikers](https://datalikers.com/p/1by27bwg) ([datasets](https://datalikers.com/datasets), [MCP](https://datalikers.com/mcp), and [Cache API](https://datalikers.com/cache-api)). For Python, use [`instagrapi`](https://github.com/subzeroid/instagrapi) or its async variant [`aiograpi`](https://github.com/subzeroid/aiograpi).
 
 **What TikTok data can I access?**
-Videos, profiles, comments, hashtags, and music — via [Lamatok](https://lamatok.com/p/s6kl8mtn) (live) or [Datalikers](https://datalikers.com/p/1by27bwg) (datasets and cached API).
+Videos, profiles, comments, hashtags, and music — via [Lamatok](https://lamatok.com/p/s6kl8mtn) (live [API](https://api.lamatok.com)) or [Datalikers](https://datalikers.com/p/1by27bwg) ([datasets](https://datalikers.com/datasets), [MCP](https://datalikers.com/mcp), and [Cache API](https://datalikers.com/cache-api)).
 
 **Which AI assistants support the MCP servers?**
 Claude Code, Claude Desktop, Cursor, OpenAI Codex, Zed, and Windsurf.
 
-**Is there a free tier?**
-Yes — 100 free requests across HikerAPI, Lamatok, and Datalikers.
+**Is it free?**
+Yes. HikerAPI, Lamatok, and Datalikers each include **100 free requests** — no credit card required. The Python libraries (`instagrapi`, `aiograpi`, `instagrapi-rest`, `instagrapi-extra`) and Telegram bots are fully open-source and free to use.
 
 ---
 
