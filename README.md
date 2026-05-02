@@ -39,7 +39,7 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 
 | Repo | Description | Stars |
 |------|-------------|:-----:|
-| [**insta-dl**](https://github.com/subzeroid/insta-dl) | Async CLI to download Instagram profiles, reels, stories, and hashtags — no-ban HikerAPI backend, incremental sync, metadata preserved | ![insta-dl stars](https://img.shields.io/github/stars/subzeroid/insta-dl?style=flat&color=yellow) |
+| [**insta‑dl**](https://github.com/subzeroid/insta-dl) | Async CLI to download Instagram profiles, reels, stories, and hashtags — no-ban HikerAPI backend, incremental sync, metadata preserved | ![insta-dl stars](https://img.shields.io/github/stars/subzeroid/insta-dl?style=flat&color=yellow) |
 | [**insto**](https://github.com/subzeroid/insto) | Instagram OSINT CLI with unique analytics — geo (`/where`, `/place`), network intersect (`/mutuals`), posting cadence (`/timeline`), superfan ranking (`/fans`), plus snapshot/watch/diff over time and Maltego CSV export | ![insto stars](https://img.shields.io/github/stars/subzeroid/insto?style=flat&color=yellow) |
 
 ## Libraries
