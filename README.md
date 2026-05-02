@@ -35,6 +35,13 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 | [**lamatok-mcp**](https://github.com/subzeroid/lamatok-mcp) | MCP server for LamaTok with TikTok API tools for AI assistants |
 | [**datalikers-mcp**](https://github.com/subzeroid/datalikers-mcp) | MCP server for Instagram & TikTok datasets and cached API workflows |
 
+## CLI Tools
+
+| Repo | Description | Stars |
+|------|-------------|:-----:|
+| [**insta-dl**](https://github.com/subzeroid/insta-dl) | Async CLI to download Instagram profiles, reels, stories, and hashtags — no-ban HikerAPI backend, incremental sync, metadata preserved | ![insta-dl stars](https://img.shields.io/github/stars/subzeroid/insta-dl?style=flat&color=yellow) |
+| [**insto**](https://github.com/subzeroid/insto) | Interactive Instagram OSINT CLI — REPL + one-shot, pluggable HikerAPI / aiograpi backends, `/dossier` full-target package, Maltego CSV export | ![insto stars](https://img.shields.io/github/stars/subzeroid/insto?style=flat&color=yellow) |
+
 ## Libraries
 
 | Repo | Description | Stars |
@@ -43,8 +50,6 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 | [**aiograpi**](https://github.com/subzeroid/aiograpi) | Async Python library for Instagram Private API | ![aiograpi stars](https://img.shields.io/github/stars/subzeroid/aiograpi?style=flat&color=yellow) |
 | [**instagrapi-rest**](https://github.com/subzeroid/instagrapi-rest) | RESTful API wrapper for Instagram Private API | ![instagrapi-rest stars](https://img.shields.io/github/stars/subzeroid/instagrapi-rest?style=flat&color=yellow) |
 | [**instagrapi-extra**](https://github.com/subzeroid/instagrapi-extra) | Extra utilities for instagrapi: devices, locale setup, and browser cookie auth | ![instagrapi-extra stars](https://img.shields.io/github/stars/subzeroid/instagrapi-extra?style=flat&color=yellow) |
-| [**insta-dl**](https://github.com/subzeroid/insta-dl) | Async CLI to download Instagram profiles, reels, stories, and hashtags — no-ban HikerAPI backend, incremental sync, metadata preserved | ![insta-dl stars](https://img.shields.io/github/stars/subzeroid/insta-dl?style=flat&color=yellow) |
-| [**insto**](https://github.com/subzeroid/insto) | Interactive Instagram OSINT CLI — REPL + one-shot, pluggable HikerAPI / aiograpi backends, `/dossier` full-target package, Maltego CSV export | ![insto stars](https://img.shields.io/github/stars/subzeroid/insto?style=flat&color=yellow) |
 
 <p align="center">
   <a href="https://star-history.com/#subzeroid/instagrapi&Date">
