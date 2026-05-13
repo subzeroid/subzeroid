@@ -59,11 +59,11 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 
 ## Telegram Bots
 
-| Repo | Description |
-|------|-------------|
-| [**instagram-downloader-tgbot**](https://github.com/subzeroid/instagram-downloader-tgbot) | Download Instagram posts, stories, reels, highlights |
-| [**tiktok-downloader-tgbot**](https://github.com/subzeroid/tiktok-downloader-tgbot) | Download TikTok videos without watermark |
-| [**instagram-osint-tgbot**](https://github.com/subzeroid/instagram-osint-tgbot) | Instagram OSINT — 20 commands for intelligence gathering |
+| Repo | Description | Stars |
+|------|-------------|:-----:|
+| [**instagram-downloader-tgbot**](https://github.com/subzeroid/instagram-downloader-tgbot) | Download Instagram posts, stories, reels, highlights | ![instagram-downloader-tgbot stars](https://img.shields.io/github/stars/subzeroid/instagram-downloader-tgbot?style=flat&color=yellow) |
+| [**tiktok-downloader-tgbot**](https://github.com/subzeroid/tiktok-downloader-tgbot) | Download TikTok videos without watermark | ![tiktok-downloader-tgbot stars](https://img.shields.io/github/stars/subzeroid/tiktok-downloader-tgbot?style=flat&color=yellow) |
+| [**instagram-osint-tgbot**](https://github.com/subzeroid/instagram-osint-tgbot) | Instagram OSINT — 20 commands for intelligence gathering | ![instagram-osint-tgbot stars](https://img.shields.io/github/stars/subzeroid/instagram-osint-tgbot?style=flat&color=yellow) |
 
 ## FAQ
 
@@ -86,4 +86,3 @@ Yes. HikerAPI, Lamatok, and Datalikers each include **100 free requests** — no
   <a href="https://lamatok.com/p/s6kl8mtn"><b>Lamatok</b></a> &bull;
   <a href="https://datalikers.com/p/1by27bwg"><b>Datalikers</b></a>
 </p>
-
