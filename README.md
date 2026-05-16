@@ -48,7 +48,7 @@ Use our MCP servers from **Cursor**, **Claude Code**, **Claude Desktop**, **Open
 |------|-------------|:-----:|
 | [**instagrapi**](https://github.com/subzeroid/instagrapi) | The most actively maintained Python library for Instagram Private API | ![instagrapi stars](https://img.shields.io/github/stars/subzeroid/instagrapi?style=flat&color=yellow) |
 | [**aiograpi**](https://github.com/subzeroid/aiograpi) | Async Python library for Instagram Private API | ![aiograpi stars](https://img.shields.io/github/stars/subzeroid/aiograpi?style=flat&color=yellow) |
-| [**instagrapi-rest**](https://github.com/subzeroid/instagrapi-rest) | RESTful API wrapper for Instagram Private API | ![instagrapi-rest stars](https://img.shields.io/github/stars/subzeroid/instagrapi-rest?style=flat&color=yellow) |
+| [**aiograpi-rest**](https://github.com/subzeroid/aiograpi-rest) | RESTful API wrapper for aiograpi and Instagram Private API | ![aiograpi-rest stars](https://img.shields.io/github/stars/subzeroid/aiograpi-rest?style=flat&color=yellow) |
 | [**instagrapi-extra**](https://github.com/subzeroid/instagrapi-extra) | Extra utilities for instagrapi: devices, locale setup, and browser cookie auth | ![instagrapi-extra stars](https://img.shields.io/github/stars/subzeroid/instagrapi-extra?style=flat&color=yellow) |
 
 <p align="center">
@@ -77,7 +77,7 @@ Videos, profiles, comments, hashtags, and music — via [Lamatok](https://lamato
 Claude Code, Claude Desktop, Cursor, OpenAI Codex, Zed, and Windsurf.
 
 **Is it free?**
-Yes. HikerAPI, Lamatok, and Datalikers each include **100 free requests** — no credit card required. The Python libraries (`instagrapi`, `aiograpi`, `instagrapi-rest`, `instagrapi-extra`) and Telegram bots are fully open-source and free to use.
+Yes. HikerAPI, Lamatok, and Datalikers each include **100 free requests** — no credit card required. The Python libraries (`instagrapi`, `aiograpi`, `aiograpi-rest`, `instagrapi-extra`) and Telegram bots are fully open-source and free to use.
 
 ---
 
